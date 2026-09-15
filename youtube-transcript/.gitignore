@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+output/raw/*.json
+output/clean/*.txt
+output/questions/*.json
+output/questions/*.csv
+!output/raw/.gitkeep
+!output/clean/.gitkeep
+!output/questions/.gitkeep
